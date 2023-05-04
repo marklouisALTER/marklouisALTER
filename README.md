@@ -5,7 +5,7 @@ My Name is Marlouis A. Bernardo And I'm Currently 3rd year College.My Language t
 <br><br>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=marklouisALTER&show_icons=true&theme=radical"/>
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marklouisALTER&layout=compact&hide=java"/>
-
+<br><br>
 <img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
