@@ -4,13 +4,9 @@ My Language that i know so far are HTML, CSS, Javascript, PHP and the Libraries 
 I'm Competent enough to use MERN. Im anspiring Full stack developer.
 #My stats for now
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marklouisALTER&show_icons=true&theme=radical)
-
-
-# My Top Language so far
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marklouisALTER&hide=java)](https://github.com/anuraghazra/github-readme-stats)
-
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=marklouisALTER&show_icons=true&theme=radical"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marklouisALTER&hide=java"/>
+![Anurag's GitHub stats]()
 
 
 ###### I if you're company or team need a Frondend or Backend Intern i'm in
