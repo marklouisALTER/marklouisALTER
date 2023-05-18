@@ -4,7 +4,7 @@
 My Name is Marlouis A. Bernardo And I'm Currently 3rd year College.My Language that i know so far are HTML, CSS, Javascript, PHP and the Libraries and frameworks are Boostrap, Express, Nodejs. I'm working now in my project Which is MERN hopefully by the end of this year I'm Competent enough to use MERN. Im anspiring Full stack developer.
 
 <h2>Know about me </h2>
--  🚩visit my Portfolio at https://markme-portfolio-react.onrender.com/
+-  🚩visit my Portfolio at https://marklouisbernardo-portfolio.vercel.app
 
 - 🌱 I’m currently learning **React**
 
