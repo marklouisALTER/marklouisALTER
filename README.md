@@ -1,7 +1,7 @@
 ![logo](https://github.com/marklouisALTER/marklouisALTER/blob/main/banner.PNG)
  <h1 align="center">Hi 👋, I'm Mark Louis Bernardo</h1>
 <h3 align="center">Aspiring Full Stack Developer</h3>
-My Name is Marlouis A. Bernardo And I'm Currently 3rd year College.My Language that i know so far are HTML, CSS, Javascript, PHP and the Libraries and frameworks are Boostrap, Express, Nodejs. I'm working now in my project Which is MERN hopefully by the end of this year I'm Competent enough to use MERN. Im anspiring Full stack developer.
+Mark louis A. Bernardo,I'm Currently 3rd year College.Im anspiring Full stack developer.My Language that i know so far are HTML, CSS, Javascript, PHP and the Libraries and frameworks are Boostrap, Express, Nodejs. I'm working now in my project Which is MERN hopefully by the end of this year I'm Competent enough to use MERN.
 
 <h2>Know about me </h2>
 -  🚩visit my Portfolio at https://marklouisbernardo-portfolio.vercel.app
@@ -10,7 +10,7 @@ My Name is Marlouis A. Bernardo And I'm Currently 3rd year College.My Language t
 
 - 👨‍💻 All of my projects are available at [https://github.com/marklouisALTER?tab=repositories](https://github.com/marklouisALTER?tab=repositories)
 
-- 📫 How to reach me **marklouisbernando318@gmail.com**
+- 📫 Reach me **marklouisbernando318@gmail.com**
 
 - 📄 Know about my experiences [Soon](Soon)
 
