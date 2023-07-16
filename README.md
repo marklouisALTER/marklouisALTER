@@ -6,7 +6,7 @@ Mark louis A. Bernardo,I'm Currently 3rd year College.Im anspiring Full stack de
 <h2>Know about me </h2>
 -  🚩visit my Portfolio at https://marklouisbernardo-portfolio.vercel.app
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **PHP,React,MERN(MASTERY)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/marklouisALTER?tab=repositories](https://github.com/marklouisALTER?tab=repositories)
 
