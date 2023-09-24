@@ -1,6 +1,6 @@
 <!-- ![logo](https://github.com/marklouisALTER/marklouisALTER/blob/main/banner.PNG) -->
  <h1 align="center">Hi 👋, I'm Mark Louis Bernardo</h1>
-<h3 align="center">Aspiring Full Stack Developer</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Aspiring+Full+Stack+Developer" />
 Mark louis A. Bernardo,I'm Currently 3rd year College.Im anspiring Full stack developer.My Language that i know so far are HTML, CSS, Javascript, PHP and the Libraries and frameworks are Boostrap, Express, Nodejs. I'm working now in my project Which is MERN hopefully by the end of this year I'm Competent enough to use MERN.
 
 <h2>Know about me </h2>
