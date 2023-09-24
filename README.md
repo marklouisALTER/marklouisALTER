@@ -24,15 +24,14 @@
 <img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
 <br><br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br><br>
 <img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 <br><br>
 <h2>Stats </h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marklouisalter&show_icons=true&locale=en&layout=compact" alt="marklouisalter" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marklouisalter&show_icons=true&locale=en" alt="marklouisalter" /></p>
+<br><br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marklouisalter&show_icons=true&locale=en&layout=compact" alt="marklouisalter" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marklouisalter&" alt="marklouisalter" /></p>
