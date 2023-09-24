@@ -1,12 +1,12 @@
 <!-- ![logo](https://github.com/marklouisALTER/marklouisALTER/blob/main/banner.PNG) -->
- <h1 align="center">Hi 👋, I'm Mark Louis Bernardo</h1>
+ <h1 align="left">Hi, I'm Mark Louis Bernardo :sparkles: </h1>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Aspiring+Full+Stack+Developer" />
-Mark louis A. Bernardo,I'm Currently 3rd year College.Im anspiring Full stack developer.My Language that i know so far are HTML, CSS, Javascript, PHP and the Libraries and frameworks are Boostrap, Express, Nodejs. I'm working now in my project Which is MERN hopefully by the end of this year I'm Competent enough to use MERN.
+4th Year Student at City of Malabon University and React JS Developer  
 
 <h2>Know about me </h2>
 -  🚩visit my Portfolio at https://marklouisbernardo-portfolio.vercel.app
 
-- 🌱 I’m currently learning **React TS, Laravel**
+- 🌱 I’m currently Mastering **React JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/marklouisALTER?tab=repositories](https://github.com/marklouisALTER?tab=repositories)
 
