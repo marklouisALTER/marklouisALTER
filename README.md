@@ -34,10 +34,6 @@
 <br><br>
 <h2>Stats </h2>
 
-<br><br>
-![trophy](https://github-profile-trophy.vercel.app/?username=marklouisALTER&theme=onedark)
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marklouisalter&show_icons=true&locale=en&layout=compact" alt="marklouisalter" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marklouisalter&" alt="marklouisalter" /></p>
