@@ -1,10 +1,10 @@
 <!-- ![logo](https://github.com/marklouisALTER/marklouisALTER/blob/main/banner.PNG) -->
  <h1 align="left">Hi, I'm Mark Louis Bernardo :sparkles: </h1>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Aspiring+Full+Stack+Developer" />
-4th Year Student at City of Malabon University and React JS Developer  
+4th Year Student at City of Malabon University and React JS Developer
 
 <h2>Know about me </h2>
--  🚩visit my Portfolio at https://marklouisbernardo-portfolio.vercel.app
+-  🚩visit my Website Portfolio at https://marklouisbernardo-portfolio.vercel.app
 
 - 🌱 I’m currently Mastering **React JS**
 
