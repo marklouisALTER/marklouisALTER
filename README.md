@@ -1,4 +1,5 @@
  <!-- ![logo](https://github.com/marklouisALTER/marklouisALTER/blob/main/banner.PNG) -->
+ <img align="right" src="https://api.visitorbadge.io/api/VisitorHit?user=marklouisALTER&countColor=%237B1E7A">
  <h1 align="left">Hi, I'm Mark Louis Bernardo :sparkles: </h1>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Web+Developer" />
 4th Year Student at City of Malabon University and React JS Developer
@@ -38,7 +39,8 @@
 <img width="425" src="https://github-readme-streak-stats.herokuapp.com?user=marklouisALTER&theme=tokyonight&hide_border=true" alt="Markme19" />
 </p>
 <hr>
-<div>
 <h2 align="center">Highlight Repositories</h2>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=marklouisALTER&repo=website-portfolio-react&theme=tokyonight" />
+<div width="100%" align="center">
+<a align="left" href="https://marklouisbernardo-portfolio.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marklouisALTER&repo=website-portfolio-react&theme=tokyonight" /></a>
+ <a align="left" href="https://github.com/marklouisALTER/face_recognition"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marklouisALTER&repo=face_recognition&theme=tokyonight" /></a>
 </div>
