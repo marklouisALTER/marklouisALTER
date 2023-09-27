@@ -1,7 +1,22 @@
-<!-- ![logo](https://github.com/marklouisALTER/marklouisALTER/blob/main/banner.PNG) -->
+ <!-- ![logo](https://github.com/marklouisALTER/marklouisALTER/blob/main/banner.PNG) -->
  <h1 align="left">Hi, I'm Mark Louis Bernardo :sparkles: </h1>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Web+Developer" />
 4th Year Student at City of Malabon University and React JS Developer
+
+ <div align="center">
+  <h1>Framework-Language-Tools</h1> 
+  <br>
+  <p align="center">
+   <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,php,mysql" />
+   </a>
+ </p>
+  <p align="center">
+   <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=html,figma,github,vercel,vite,express,js,git,nodejs,mongodb" />
+   </a>
+ </p>
+ </div>
 
 <h2>Know about me </h2>
 -  🚩visit my Website Portfolio at https://marklouisbernardo-portfolio.vercel.app
@@ -12,28 +27,13 @@
 
 - 📫 Reach me **marklouisbernando318@gmail.com**
 
-<h3 align="left">Languages and Frameworks:</h3>
-<img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-<img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img align="left" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"/>
+<h3 align="center">🏆 GitHub Trophies</h3>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=marklouisALTER&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="gabthegreat" />
+</p>
 
-<br><br>
-<img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-<br><br>
 <h2>Stats </h2>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marklouisalter&show_icons=true&locale=en&layout=compact" alt="marklouisalter" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marklouisalter&" alt="marklouisalter" /></p>
+<p align="center">
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=marklouisALTER&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" alt="gabthegreat" />
+<img width="425" src="https://github-readme-streak-stats.herokuapp.com?user=marklouisALTER&theme=tokyonight&hide_border=true" alt="gabthegreat" />
+</p>
