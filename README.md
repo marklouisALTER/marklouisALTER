@@ -29,11 +29,16 @@
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=marklouisALTER&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="gabthegreat" />
+<img src="https://github-profile-trophy.vercel.app/https://github.com/marklouisALTER/website-portfolio-react?username=marklouisALTER&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="gabthegreat" />
 </p>
 
-<h2>Stats </h2>
+<h2 align="center">Stats </h2>
 <p align="center">
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=marklouisALTER&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" alt="gabthegreat" />
-<img width="425" src="https://github-readme-streak-stats.herokuapp.com?user=marklouisALTER&theme=tokyonight&hide_border=true" alt="gabthegreat" />
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=marklouisALTER&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" alt="Markme19" />
+<img width="425" src="https://github-readme-streak-stats.herokuapp.com?user=marklouisALTER&theme=tokyonight&hide_border=true" alt="Markme19" />
 </p>
+<hr>
+<div>
+<h2 align="center">Highlight Repositories</h2>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=marklouisALTER&repo=website-portfolio-react&theme=tokyonight" />
+</div>
