@@ -22,8 +22,6 @@
 <h2>Know about me </h2>
 -  🚩visit my Website Portfolio at https://marklouisbernardo-portfolio.vercel.app
 
-- 🌱 I’m currently Mastering **React JS**
-
 - 👨‍💻 All of my projects are available at [https://github.com/marklouisALTER?tab=repositories](https://github.com/marklouisALTER?tab=repositories)
 
 - 📫 Reach me **marklouisbernando318@gmail.com**
