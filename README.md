@@ -24,7 +24,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/marklouisALTER?tab=repositories](https://github.com/marklouisALTER?tab=repositories)
 
-- 📫 Reach me **marklouisbernando318@gmail.com**
+- 📫 Reach me **marlouismark@gmail.com**
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
