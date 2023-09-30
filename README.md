@@ -1,5 +1,6 @@
-<img src="https://github.com/marklouisALTER/marklouisALTER/blob/main/Banner.png" />
+
  <img align="right" src="https://api.visitorbadge.io/api/VisitorHit?user=marklouisALTER&countColor=%237B1E7A">
+ <img src="https://github.com/marklouisALTER/marklouisALTER/blob/main/Banner.png" />
  <h1 align="left">Hi, I'm Mark Louis Bernardo :sparkles: </h1>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Web+Developer" />
 4th Year Student at City of Malabon University and React JS Developer
