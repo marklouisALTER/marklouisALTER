@@ -26,6 +26,7 @@
 
 - 📫 Reach me **marlouismark@gmail.com**
 
+- 🎯 Learning **Mern Stack**
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/https://github.com/marklouisALTER/website-portfolio-react?username=marklouisALTER&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Markme19" />
