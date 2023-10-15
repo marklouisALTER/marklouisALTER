@@ -4,8 +4,7 @@
  <img src="https://github.com/marklouisALTER/marklouisALTER/blob/main/Banner.png" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Web+Developer" />
-4th Year IT Student at City of Malabon University and React JS Web Developer
-
+4th Year IT Student at City of Malabon University and React JS Web Developer 
  <div align="center">
   <h1>👨‍💻 Framework-Language-Tools 👨‍💻 </h1> 
   <br>
@@ -26,7 +25,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/marklouisALTER?tab=repositories](https://github.com/marklouisALTER?tab=repositories)
 
-- 📫 Reach me **marlouismark@gmail.com**
+- 📫 Reach me **marklouisbernando318@gmail.com**
 
 - 🎯 Learning **Mern Stack**
 <h3 align="center">🏆 GitHub Trophies</h3>
