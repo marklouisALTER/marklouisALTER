@@ -27,7 +27,10 @@
 
 - 📫 Reach me **marklouisbernando318@gmail.com**
 
-- 🎯 Learning **Mern Stack**
+- 🎯 Learning **Wordpress Stack**
+
+- 🏠 Work from **HOME**
+  
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/https://github.com/marklouisALTER/website-portfolio-react?username=marklouisALTER&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Markme19" />
