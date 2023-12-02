@@ -3,7 +3,7 @@
   <br><br>
  <img src="https://github.com/marklouisALTER/marklouisALTER/blob/main/Banner.png" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Aspiring+Full+Stack+Web+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Aspiring+Full+Stack+Web+Developer+/+Data+Engineer" />
 👨‍💻 4th Year IT Student at City of Malabon University and React JS Web Developer 
  <div align="center">
   <h1>👨‍💻 Framework-Language-Tools 👨‍💻 </h1> 
