@@ -33,7 +33,7 @@
   
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/https://github.com/marklouisALTER/website-portfolio-react?username=marklouisALTER&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Markme19" />
+<img src="https://github-profile-trophy.vercel.app/?username=marklouisALTER&theme=onedark" alt="Markme19" />
 </p>
 
 <h2 align="center">Stats </h2>
