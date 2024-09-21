@@ -27,9 +27,9 @@
 
 - 📫 Reach me **marklouisbernando318@gmail.com**
 
-- 🎯 Learning **Wordpress Stack**
+- 🎯 Learning **PWA Next JS, AI Automation**
 
-- 🏠 Work from **HOME**
+- 🏠 Work from **HOME / On-Site**
   
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
