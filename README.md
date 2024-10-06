@@ -46,7 +46,7 @@
 <div width="100%" align="center">
  <a align="left" href="https://github.com/marklouisALTER/face_recognition"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marklouisALTER&repo=face_recognition&theme=tokyonight" /></a>
  <a align="left" href="https://github.com/marklouisALTER/Face_Recognition-GoogleColab-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marklouisALTER&repo=Face_Recognition-GoogleColab-&theme=tokyonight" /></a>
- <a align="left" href="https://github.com/marklouisALTER/Face_Recognition-GoogleColab-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marklouisALTER&repo=Face_Recognition-GoogleColab-&theme=tokyonight" /></a>
  <a align="left" href="https://github.com/marklouisALTER/Face_Recognition-GoogleColab-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marklouisALTER&repo=node-js-template&theme=tokyonight" /></a>
  <a align="left" href="https://github.com/marklouisALTER/python-exercises"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marklouisALTER&repo=next-js-template&theme=tokyonight" /></a>
+  <a align="left" href="https://github.com/marklouisALTER/Face_Recognition-GoogleColab-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marklouisALTER&repo=Face_Recognition-GoogleColab-&theme=tokyonight" /></a>
 </div>
