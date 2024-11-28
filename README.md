@@ -27,7 +27,7 @@
 
 - 📫 Reach me **marklouisbernando318@gmail.com**
 
-- 🎯 Learning **PWA Next JS / TS, Blockchain, AI Automation**
+- 🎯 Learning **PWA Next JS / TS, Blockchain, AI Automation, Supabase**
 
 - 🏠 Work from **HOME / On-Site**
   
