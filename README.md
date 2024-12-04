@@ -4,7 +4,7 @@
  <img src="https://github.com/marklouisALTER/marklouisALTER/blob/main/Banner.png" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer+/+AI+Automation" />
-👨‍💻 Data Analyst / Full Stack Web Developer / No Code / Low Code
+👨‍💻 Data Analyst / Full Stack Web Developer / No Code / Low Code / Blockchain
  <div align="center">
   <h1>👨‍💻 Framework-Language-Tools 👨‍💻 </h1> 
   <br>
