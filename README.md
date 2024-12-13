@@ -28,7 +28,7 @@
 - 📫 Reach me **marklouisbernando318@gmail.com**
 
 - 🎯 Learning **AI Automation, Supabase, Laravel**
-
+, Nuxt TS
 - 🏠 Work from **HOME / On-Site**
   
 <h3 align="center">🏆 GitHub Trophies</h3>
