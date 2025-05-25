@@ -43,19 +43,7 @@
   </p>
  
 </div>
-
-
-<h2>Know about me </h2>
--  🚩visit my Website Portfolio at https://markme-portfolio.vercel.app/
-
-- 👨‍💻 All of my projects are available at [https://github.com/marklouisALTER?tab=repositories](https://github.com/marklouisALTER?tab=repositories)
-
-- 📫 Reach me **marklouisbernando318@gmail.com**
-
-- 🎯 Learning **AI Automation, Supabase, Laravel**
-, Nuxt TS
-- 🏠 Work from **HOME / On-Site**
-  
+ 
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=marklouisALTER&theme=onedark" alt="Markme19" />
@@ -64,12 +52,4 @@
 <h2 align="center">Stats </h2>
 <p align="center">
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=marklouisALTER&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" alt="Markme19" />
-<img width="425" src="https://github-readme-streak-stats.herokuapp.com?user=marklouisALTER&theme=tokyonight&hide_border=true" alt="Markme19" />
-</p>
-<hr>
-<h2 align="center">Highlight Repositories</h2>
-<div width="100%" align="center">
- <a align="left" href="https://github.com/marklouisALTER/face_recognition"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marklouisALTER&repo=face_recognition&theme=tokyonight" /></a>
- <a align="left" href="https://github.com/marklouisALTER/Face_Recognition-GoogleColab-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marklouisALTER&repo=Face_Recognition-GoogleColab-&theme=tokyonight" /></a>
-  <a align="left" href="https://github.com/marklouisALTER/Face_Recognition-GoogleColab-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marklouisALTER&repo=Face_Recognition-GoogleColab-&theme=tokyonight" /></a>
-</div>
+<img width="425" src="https://github-readme-streak-stats.herokuapp.com?user=marklouisALTER&theme=tokyonight&hide_border=true" alt="Markme19" /> 
