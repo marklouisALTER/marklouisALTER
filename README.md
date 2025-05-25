@@ -5,20 +5,45 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer+/+AI+Automation" />
 👨‍💻 Data Analyst / Full Stack Web Developer / No Code / Low Code / Blockchain
- <div align="center">
-  <h1>👨‍💻 Framework-Language-Tools 👨‍💻 </h1> 
-  <br>
-  <p align="center">
-   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,php,mysql,typescript" />
-   </a>
- </p>
-  <p align="center">
-   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=figma,github,vercel,vite,express,js,git,wordpress,nodejs,python,mongodb,laravel" />
-   </a>
- </p>
- </div>
+<div align="left">
+  <h1>👨‍💻 Frameworks, Languages & Tools 👨‍💻</h1>
+
+  <br />
+  
+  <!-- Frontend -->
+  <h3>💻 Frontend</h3>
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,typescript,js,nextjs," />
+    </a>
+  </p>
+
+  <!-- Backend -->
+  <h3>🖥️ Backend</h3>
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,laravel,jquery" />
+    </a>
+  </p>
+
+  <!-- Database -->
+  <h3>🗄️ Database</h3>
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,postgresql,sqlite" />
+    </a>
+  </p>
+
+  <!-- Tools & Platforms -->
+  <h3>🛠️ Tools & Platforms</h3>
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,github,vercel,vite,wordpress,ubuntu,figma,docker,postman,npm" />
+    </a>
+  </p>
+ 
+</div>
+
 
 <h2>Know about me </h2>
 -  🚩visit my Website Portfolio at https://markme-portfolio.vercel.app/
