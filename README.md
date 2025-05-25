@@ -1,14 +1,12 @@
 
  <img align="right" src="https://api.visitorbadge.io/api/VisitorHit?user=marklouisALTER&countColor=%237B1E7A">
   <br><br>
- <img src="https://github.com/marklouisALTER/marklouisALTER/blob/main/Banner.png" />
-
+<!--  <img src="https://github.com/marklouisALTER/marklouisALTER/blob/main/Banner.png" />
+ -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer+/+AI+Automation" />
-👨‍💻 Data Analyst / Full Stack Web Developer / No Code / Low Code / Blockchain
+<!-- 👨‍💻 Data Analyst / Full Stack Web Developer / No Code / Low Code / Blockchain -->
 <div align="left">
   <h1>👨‍💻 Frameworks, Languages & Tools 👨‍💻</h1>
-
-  <br />
   
   <!-- Frontend -->
   <h3>💻 Frontend</h3>
